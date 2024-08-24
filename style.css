@@ -1,0 +1,33 @@
+.navigation{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    margin: 0;
+    
+    
+    
+
+   
+
+}
+
+.wrapper{
+    display: flex;
+}
+#mainContent{
+    padding: 20px;
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+body{
+    background-color: grey;
+}
+#navigation1{
+    margin: 0;
+    padding: 0;
+   
+}
+ul {
+    list-style-type: none;
+  }
